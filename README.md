@@ -16,4 +16,4 @@ Learning Objectives: By the end of this workshop, you will be able to:
 This workshop will reuqire access to OpenRouter, so open the site - https://openrouter.ai/settings/keys and generate a new key. Make sure to save this key because you will not be able to access it later. 
 
 ## Dataset used
-We will use the King County (WA) Home Sales dataset. This dataset contains more than 20 years of residential home sales for King County, Washington (Seattle area) with columns about sale price, property size, and other home characteristics.
+We will use the [King County (WA) Home Sales dataset](https://www.kaggle.com/datasets/andykrause/kingcountysales?select=kingco_sales.csv). This dataset contains more than 20 years of residential home sales for King County, Washington (Seattle area) with columns about sale price, property size, and other home characteristics.
