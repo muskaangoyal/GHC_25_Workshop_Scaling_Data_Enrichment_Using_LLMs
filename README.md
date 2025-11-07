@@ -13,7 +13,14 @@ Learning Objectives: By the end of this workshop, you will be able to:
 4. Rebuild retrieval over enriched semantic signals and measure the improvement.
 
 ## Requisites
-This workshop will reuqire access to OpenRouter, so open the site - https://openrouter.ai/settings/keys and generate a new key. Make sure to save this key because you will not be able to access it later. 
+You can create one at https://openrouter.ai/ (free models available).
+
+You will need a create an account for this.
+1. After you login, on the right hand corner click on the profile bar, then select keys.
+2. On the API Keys page click on "Create API Key" button.
+3. When propmted just provide a name for the key and keep the credit limit unlimited and submit.
+4. When the key gets generated, click on the copy button to copy the key.
+5. When prompted while executing, paste the key and click "Enter/Return".
 
 ## Dataset used
 We will use the [King County (WA) Home Sales dataset](https://www.kaggle.com/datasets/andykrause/kingcountysales?select=kingco_sales.csv). This dataset contains more than 20 years of residential home sales for King County, Washington (Seattle area) with columns about sale price, property size, and other home characteristics.
