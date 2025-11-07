@@ -1,6 +1,8 @@
 # GHC_25_Workshop_Scaling_Data_Enrichment_Using_LLMs
 This notebook contains the workshop portion for the "Scaling Data Enrichment Using LLMs" workshop hosted at GHC 25 in Chicago. To get started, download this notebook and upload it to google colab (https://colab.research.google.com/). 
 
+Link to slides - https://docs.google.com/presentation/d/1EPYLeraR0Xlv_ZqN-9XjhobJsg_7p8Pj/edit?usp=sharing&ouid=110550766292605694033&rtpof=true&sd=true
+
 ## Introduction
 Welcome! In this notebook, we will build a data enrichment pipeline using a real-estate dataset to convert basic numerical housing features into semantic signals (e.g., coffee access, food corridor, transit convenience, neighborhood vibe). We will then rebuild retrieval on top of those enriched signals to show how search suddenly becomes aligned with the way humans actually ask questions.
 
